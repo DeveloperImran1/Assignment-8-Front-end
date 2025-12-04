@@ -14,11 +14,11 @@ const MainHeader = () => {
             >
               EventSphere - Your Ticket <br /> to Experiences
             </h2>
-            <p data-aos="fade-right" className="text-lg max-w-lg mx-auto mb-6">
+            {/* <p data-aos="fade-right" className="text-lg max-w-lg mx-auto mb-6">
               Explore a wide range of events, from concerts and sports to
               workshops and festivals. Book your tickets easily and enjoy a
               seamless event experience.
-            </p>
+            </p> */}
             <button
               data-aos="fade-right"
               className="bg-blue-500 py-2 px-6 mt-4 rounded-md hover:bg-blue-600 transition duration-300"
