@@ -1,6 +1,6 @@
 # Website Name: EventSphere - Smart Event Management and Booking Platform
 
-**EventSphere** is a full-stack platform designed for efficient event discovery, booking, and management, featuring advanced tools and secure access for admins, event organizers, and users. It supports various event types such as concerts, conferences, sports, and more, ensuring a seamless experience with real-time availability, seat selection, and interactive venue tours.
+**EventSphere** is a full-stack event booking platform designed for efficient event discovery, booking, and management, featuring advanced tools and secure access for admins, event organizers, and users. It supports various event types such as concerts, conferences, sports, and more, ensuring a seamless experience with real-time availability, seat selection, and interactive venue tours.
 
 ## Credential
 
@@ -159,5 +159,6 @@ Gift card purchase options and access to current promotions.
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
+
 
 
